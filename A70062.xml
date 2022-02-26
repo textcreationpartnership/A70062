@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Form of the proceeding to the coronation of Their Majesties King William and Queen Mary, the eleventh day of this instant April, 1689 to be punctually observed by all persons therein concerned.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70062</idno>
+            <idno type="STC">Wing F1580</idno>
+            <idno type="STC">ESTC R1498</idno>
+            <idno type="EEBO-CITATION">12409795</idno>
+            <idno type="OCLC">ocm 12409795</idno>
+            <idno type="VID">61504</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70062)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61504)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 938:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Form of the proceeding to the coronation of Their Majesties King William and Queen Mary, the eleventh day of this instant April, 1689 to be punctually observed by all persons therein concerned.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Coronation.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Coronation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="form_of_coronation_procession">
+            <pb n="1" facs="tcp:61504:1"/>
+            <head>THE Form of the Proceeding TO THE CORONATION <hi>Of Their Majeſties</hi> KING WILLIAM AND QUEEN MARY, The Eleventh Day of this Inſtant <hi>April,</hi> 1689.</head>
+            <head type="sub">[To be punctually Obſerved by all Perſons therein concerned.]</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>April 8. 1689.</date>
+                           </dateline>
+                        </opener>
+                        <p>I do Appoint <hi>Edward Jones</hi> to Print this Account of the Proceeding.</p>
+                        <closer>
+                           <signed>
+                              <hi>NORFOLKE,</hi> and <hi>MARSHALL.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <list>
+                  <item>DRums four a-Breaſt.</item>
+                  <item>Drum-Major.</item>
+                  <item>Trumpets four a-Breaſt.</item>
+                  <item>Serjeant-Trumpeter.</item>
+                  <item>
+                     <pb n="2" facs="tcp:61504:2"/>
+The Six Clerks in Chancery, in Gowns of Black Flower'd Sattin, with Black Silk Loops and Tuffs.</item>
+                  <item>Chaplains having Dignities, in Scarlet, and Tippets with Square Caps in their Hands.</item>
+                  <item>Sheriffs and Aldermen of <hi>London.</hi>
+                  </item>
+                  <item>Maſters in Chancery.</item>
+                  <item>Sollicitor, and Attorney General.</item>
+                  <item>Eſquires of the Body, in Rich Habits.</item>
+                  <item>Gentlemen of the Privy Chamber.</item>
+                  <item>Barons of the Exchequer, and Juſtices of Both Benches, in Judges Robes of Scarlet.</item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell rows="2">
+                              <stage>Theſe are to Meet in the Court of Requeſts, where they are to be put in Order by ſome of the Officers of Arms, and Conducted into the Hall.</stage>
+                           </cell>
+                           <cell cols="2">Lord Chief Baron, Lord Chief Juſtice of the Common-Pleas, in Scarlet Robes, with their Collars of SS. Guilt.</cell>
+                        </row>
+                        <row>
+                           <cell>Maſter of the Rolls, in a Rich Gown.</cell>
+                           <cell>Lord Chief Juſtice of the King's Bench, in a Scarlet Robe, with his Collar of SS.</cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Children of the Choir of <hi>Weſtminſter,</hi> in Surplices.</item>
+                  <item>Serjeant of the Veſtry, Serjeant Porter, in Scarlet Gowns.</item>
+                  <item>Children of the Chapel, in Scarlet Mantles.</item>
+                  <item>Choir of <hi>Westminster,</hi> in Surplices.</item>
+                  <item>Gentlemen of the King's Chapel, in Scarlet Mantles.</item>
+                  <item>Sub-Dean of the King's Chapel, in a Scarlet Gown, turn'd up with Black Velvet.</item>
+                  <item>Prebendaries of <hi>Westminster,</hi> in Surplices and Rich Copes.</item>
+                  <item>The Maſter of the Jewell Houſe, in a Scarlet Robe.</item>
+                  <item>Privy Counſellors of <hi>England,</hi> not Peers, in their uſual Habits.</item>
+                  <item>Two Purſuivants of Arms.</item>
+                  <item>
+                     <stage>The Peereſſes to meet in the Painted Chamber. The Peers in the Lords Houſe; From thence, being put in Order, by the Officers of Arms, and by them to be Con<g ref="char:EOLhyphen"/>ducted into the Hall.</stage> Baroneſſes two a-Breaſt in their Robes, their Coronets in their Hands.</item>
+                  <item>Barons in their Robes in like manner.</item>
+                  <item>Biſhops.</item>
+                  <item>Two Purſuivants at Arms, as before.</item>
+                  <item>Viſcounteſſes two a-Breaſt, in their Robes, their Coronets in their Hands.</item>
+                  <item>Viſcounts in their Robes, in like manner.</item>
+                  <item>Two Heralds, in their Rich Coats and Collars of SS.</item>
+                  <item>
+                     <pb n="3" facs="tcp:61504:2"/>
+                     <stage>No Train<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> but the KING <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> QUEENS, and Prin<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <hi>GEORGE</hi> of <hi>DEN<g ref="char:EOLunhyphen"/>MARK</hi>'s.</stage> Counteſſes two a-Breaſt in their Robes, their Coronets in their Hands.</item>
+                  <item>Earls in their Robes, in like manner.</item>
+                  <item>Two Heralds, as before.</item>
+                  <item>Marchioneſſes in their Robes, their Coronets in their Hands.</item>
+                  <item>Marquiſſes in their Robes, in like manner.</item>
+                  <item>
+                     <stage>All the Knights of the Garter are to Wear their <hi>Collars</hi> and <hi>Georges.</hi>
+                     </stage> Two Heralds, as before.</item>
+                  <item>Ducheſſes two a-Breaſt, in their Robes, their Coronets in their Hands.</item>
+                  <item>Dukes in their Robes, in like manner, who do not bear ſome of the <hi>Regalia.</hi>
+                  </item>
+                  <item>The two Provincial Kings of Arms, in their Rich Coats and Collars Guilt, and Medals, and Coronets in their Hands.</item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>Lord Privy Seal.</cell>
+                           <cell>Lord Preſident of the Council.</cell>
+                        </row>
+                        <row>
+                           <cell>Lord Arch-Biſhop of <hi>York.</hi>
+                           </cell>
+                           <cell>Lord Arch-Biſhop of <hi>Canterbury.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Prince <hi>GEORGE</hi> of <hi>Denmark,</hi> with his Train born up by his Maſter of the Robes.</item>
+                  <item>Two Perſons to Repreſent the Dukes of <hi>Aquitaine</hi> and <hi>Normandy,</hi> in Crimſon Velvet Mantles, lined with Meniver, powdered with Ermine, each of them his Cap in his Hand of Cloth of Gold, Fur'd and powdered with Ermine.</item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>St. <hi>Edward</hi>'s Staff, carried by the Earl of <hi>Mancheſter.</hi>
+                           </cell>
+                           <cell>The Gold Spurs, by the Lord <hi>Grey</hi> of <hi>
+                                 <gap reason="illegible" extent="2 words">
+                                    <desc>〈◊◊〉</desc>
+                                 </gap>
+                              </hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The Queens Scepter with the Croſs, by the Earl of <hi>Clare.</hi>
+                           </cell>
+                           <cell>The Kings Scepter with the Croſs, by the Earl of <hi>Northampton.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>The Third Sword, by the Earl of <hi>Pembroke.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Curtana,</hi> by the Earl of <hi>Shrewsbury.</hi>
+                           </cell>
+                           <cell>The Pointed Sword, by the Earl of <hi>Derby.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Lord Mayor of <hi>London,</hi> bearing the City Mace, in a Gown of Crimſon Velvet, Wearing his Collar and Jewell.</cell>
+                           <cell>
+                              <hi>Garter,</hi> Principal King of Arms, Wearing his Collar and Jewell, his Coronet in his Hand.</cell>
+                           <cell>Sir <hi>Thomas Duppa,</hi> with the Black Rod in his Hand.</cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell rows="2">Serjeants at Arms.</cell>
+                           <cell cols="3">The Lord Great Chamberlain in his Robes, with his Coronet and his White Staff.</cell>
+                           <cell rows="2">Serjeants at Arms.</cell>
+                        </row>
+                        <row>
+                           <cell>The Earl Marſhal of <hi>England,</hi> in his Robes, with his Coronet and Earl Mar<g ref="char:EOLhyphen"/>ſhal's Staff, Duke of <hi>Nor<g ref="char:EOLhyphen"/>folk.</hi>
+                           </cell>
+                           <cell>The Sword of State, carried by the Earl of <hi>Oxford.</hi>
+                           </cell>
+                           <cell>The High Conſtable in his Robes, with his Staff and Coronet, Duke of <hi>Or<g ref="char:EOLhyphen"/>mond.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>The Queens Scepter with the Dove, carried by the Earl of <hi>Bedford.</hi>
+                           </cell>
+                           <cell>The Kings Scepter with the Dove, by the Earl of <hi>Rutland.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The Queens Orbe, by the Duke of <hi>Bolton.</hi>
+                           </cell>
+                           <cell>The Kings Orbe, by the Duke of <hi>Grafton.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The Queens Crown, by the Duke of <hi>Somerſet.</hi>
+                           </cell>
+                           <cell>The Kings Crown, by the Lord High Steward.</cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>The Paten, by the Lord Biſhop of St. <hi>Aſaph.</hi>
+                           </cell>
+                           <cell>The Bible, by the Lord Biſhop of <hi>London.</hi>
+                           </cell>
+                           <cell>The Chalice, by the Lord Biſhop of <hi>Rocheſter.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <pb n="4" facs="tcp:61504:3"/>
+                     <table>
+                        <row>
+                           <cell cols="6">
+                              <stage>The Canopy born by 16 Barons of the <hi>Cinque-Ports,</hi> over the KING And QUEEN.</stage>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Gentlemen Pentioners.</cell>
+                           <cell> Supporter to the QUEEN, the Lord Biſhop of <hi>Briſtol.</hi>
+                           </cell>
+                           <cell> The QUEEN in in Crimſon Velvet Robes, on Her Head a Circlet of Gold, Her Majeſties Train born by the Ducheſs of <hi>Somerſet,</hi> aſſiſted by the Lady <hi>Elizabeth Pawlett,</hi> Lady <hi>Diana Vere,</hi> Lady <hi>Elizabeth Cavendiſh,</hi> and the Lady <hi>Harriot Hyde.</hi>
+                           </cell>
+                           <cell>The KING in Crimſon Velvet Robes, a Cap on His Head of the ſame, both Fur'd and Powdered with Ermine, His great Collar and <hi>George,</hi> His Majeſties Train born by the Maſter of the Robes, aſſiſted by the Lord <hi>Eland,</hi> Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby,</hi> Lord <hi>Lanſdowne,</hi> and the Lord <hi>Dunblaine.</hi>
+                           </cell>
+                           <cell>Supporter to the KING, the Lord Biſhop of <hi>Wincheſter.</hi>
+                           </cell>
+                           <cell>Gentlemen Pentioners.</cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>A Lady of the Bed-Chamber.</cell>
+                           <cell>A Gentleman of the Bed-Chamber.</cell>
+                        </row>
+                        <row>
+                           <cell>Two of the QUEENS Women.</cell>
+                           <cell>Two Grooms of the Bed-Chamber.</cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>
+                     <table>
+                        <row>
+                           <cell>Captain of the Yeomen of the Guard.</cell>
+                           <cell>Captain of His Majeſties Guard.</cell>
+                           <cell>Captain of the Gentlemen Pentioners, Lord <hi>Lovelace.</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Enſign and Lieutenant of the Yeomen of the Guard.</item>
+                  <item>Yeomen of the Guard four a-Breaſt.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY:</hi> Printed by <hi>Edward Jones.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
